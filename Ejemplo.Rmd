@@ -1,0 +1,14 @@
+---
+title: "Ejemplo2"
+author: "Regina Echavarría Torres"
+date: "2025-02-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+print("hola")
+```
+
+
