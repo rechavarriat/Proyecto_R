@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 print("Hola, equipo! Este es nuestro primer script en R.")
 print("hola")
 print("adios")
+print("sal")
 ```
 
 
