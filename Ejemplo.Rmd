@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 print("hola")
 print("adios")
 print("yey")
+print("yey3)
 ```
 
 
